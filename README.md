@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=faecc3&height=200&section=header&text=EUXZII&fontSize=80)
   
 <h3> ✨ SNS ✨ </h3>
-<a href="https://blog.naver.com/zoooz0616" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-1EC800?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/zoooz0616" target="_blank"><img src="https://img.shields.io/badge/Blog-1EC800?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/qq_rlozi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://exuzii.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
@@ -29,19 +29,20 @@
 </div>
 
 <div align="center">
+<div aglign=center>
+  
+<h3 align="center"> ⚡ I've used ⚡ </h3>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
+</p>
+</div>
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzoooz0616%2Fhit-counter&count_bg=%23F146C0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
- </div>
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoooz0616&show_icons=true&theme=swift)
 
 
